@@ -22,11 +22,9 @@ news_scraper_project/
 │   ├── __init__.py
 │   ├── scraper.py      
 │   ├── process.py      
-│   └── utils.py        
+│   ├──utils.py
+│   └── test_scraper.py   
 │
-├── tests/
-│   ├── __init__.py
-│   └── test_scraper.py  
 │
 ├── output/             
 │   ├── news_data.csv
