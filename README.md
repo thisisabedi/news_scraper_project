@@ -145,5 +145,5 @@ This project is open-source and licensed under the **MIT License**. Feel free to
 ## 📩 Contact  
 For any questions or suggestions, feel free to contact me:  
 📧 Email: **itisabedi@outlook.com**  
-📍 GitHub: **[@itisabedi](https://github.com/itisabedi)**  
+📍 GitHub: **[@thisisabedii](https://github.com/thisisabedi)**  
 ```
